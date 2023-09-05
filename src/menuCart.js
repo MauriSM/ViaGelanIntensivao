@@ -1,4 +1,4 @@
-import { renderCatalog } from "./cardProd";
+
 import { catalogo, saveLocalStorage, recoverLocalStorage } from "./util";
 
 const idsprodcartqtd = recoverLocalStorage("carrinho") ?? {};
