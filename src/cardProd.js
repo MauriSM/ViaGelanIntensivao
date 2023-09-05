@@ -1,5 +1,5 @@
-import { addToCart } from "./menuCart";
-import { catalogo } from "./util";
+import { addToCart } from "./src/menuCart";
+import { catalogo } from "./src/util";
 
 export function renderCatalog() {
     catalogo.forEach(ProdutoCatalogo => {
