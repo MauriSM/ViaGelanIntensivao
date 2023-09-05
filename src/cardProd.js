@@ -1,4 +1,4 @@
-import { addToCart } from "./MenuCart";
+import { addToCart } from "./menuCart";
 import { catalogo } from "./util";
 
 export function renderCatalog() {
