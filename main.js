@@ -1,5 +1,5 @@
 import { renderCatalog } from "./src/cardProd";
-import { initCart, rendercart, updatePriceCart } from "./src/MenuCart";
+import { initCart, rendercart, updatePriceCart } from "./src/menuCart";
 import{initFiltros}from "./src/filtroCatalogo";
 
 
